@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: registry.hub.docker.com/omartekab/ruby:latest
 
 ports:
   - name: Rails server
