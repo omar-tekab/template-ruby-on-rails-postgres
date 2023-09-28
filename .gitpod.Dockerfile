@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-ruby-3:2022-01-28-08-49-12
 USER gitpod
 
 # Install Ruby version 2.7.6 and set it as default
